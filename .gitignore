@@ -1,2 +1,6 @@
 # ProgrammerNote gitignore
 .vscode/
+*.class
+*
+!*.*
+!*/
