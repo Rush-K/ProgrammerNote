@@ -11,13 +11,15 @@
 ### B. Stack
 
 ### C. Queue
-1. Basic Queue
+1.Basic Queue
+
     import util.LinkedList;
     import util.Queue;
     ...
     Queue<T> q = new LinkedList<T>();
 
-2. Priority Queue
+2.Priority Queue
+
     import util.PriorityQueue;
     ...
     PriorityQueue<T> q = new PriorityQueue<>(new Comparator<T>() {
