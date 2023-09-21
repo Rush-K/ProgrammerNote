@@ -5,7 +5,17 @@
     stdio.h : STD IN/OUTPUT : scanf, printf..
     math.h : 각종 수학 계산 함수들의 집합
 
-## 2. 자료 구조
+## 2. 자료형
+    byte
+    char
+    int 
+    long
+    long long
+    unsigned int
+    unsigned long
+    unsigned long long
+
+## 3. 자료 구조
 ### A. Array
 
 ### B. Stack
@@ -15,3 +25,8 @@
 ### D. Linked List
 
 ### E. Deque
+
+## 4. 조건문
+
+## 5. 반복문
+
