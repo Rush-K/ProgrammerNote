@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "P1790",
+            "request": "launch",
+            "mainClass": "Coding.JAVA.Source.Design.P1790",
+            "projectName": "ProgrammerNote_b33e1c67"
+        },
+        {
+            "type": "java",
+            "name": "P2606",
+            "request": "launch",
+            "mainClass": "Coding.JAVA.Source.DataStructure.P2606",
+            "projectName": "ProgrammerNote_b33e1c67"
+        },
+        {
+            "name": "C/C++: g++ 활성 파일 빌드 및 디버그",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: g++ 활성 파일 빌드"
+        },
+        {
+            "name": "C/C++: clang++ 활성 파일 빌드 및 디버그",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: clang++ 활성 파일 빌드"
+        }
+    ],
+    "version": "2.0.0"
+}
