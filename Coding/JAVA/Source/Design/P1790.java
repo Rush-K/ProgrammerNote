@@ -1,4 +1,4 @@
-package Coding.JAVA.Source.Design;
+//package Coding.JAVA.Source.Design;
 
 import java.util.Scanner;
 import java.lang.String;
