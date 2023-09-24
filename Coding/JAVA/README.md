@@ -4,6 +4,7 @@
 ## 1. 자주 사용하는 라이브러리
     System.IO
     util.Scanner
+    lang.Math
 
 ## 2. 자료 구조
 ### A. Array
@@ -31,5 +32,9 @@
     })
 
 ### D. Linked List
+
+    import util.LinkedList;
+    ...
+    LinkedList<T> l = new LinkedList<T>();
 
 ### E. Deque
