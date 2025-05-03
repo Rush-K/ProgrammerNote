@@ -17,9 +17,11 @@
 
 ## 3. 자료 구조
 ### A. Array
-
+    정적 배열 : int arr[4]; (Init : int arr[4] = {};)
+    동적 배열 : int* arr = new int[4]; (Init : int* arr = new int[4]();)
+    std::array : std::array<type, N> arr;
 ### B. Stack
-
+    
 ### C. Queue
 
 ### D. Linked List
